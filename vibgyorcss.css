@@ -1,0 +1,41 @@
+h1{background-color:pink;
+font-family:cursive;
+text-align:center;}
+td
+{
+height:300Px;
+width:150Px;
+border:6px solid white;}
+.tab
+{border:6px dashed black;}
+#one
+{background-color:#9400D3;
+font-family:serif;
+text-align:center;}
+#two
+{background:#4B0082;
+font-family:sans-serif;
+text-align:center;}
+#three
+{background:#0000FF;
+font-family:fantasy;
+text-align:center;}
+#four
+{background:#00FF00;
+font-family:moospace;
+text-align:center;}
+#five
+{background:#FFFF00;
+font-family:"Times New Roman", Times,serif;
+text-align:center;}
+#six
+{background:#FF7F00;
+font-family:Arial  Helvetica, sans-serif;
+text-align:center;}
+#seven
+{background:#FF0000;
+font-family:"Lucida console","Courier New",monospace;
+text-align:center;}
+
+
+
